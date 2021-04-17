@@ -35,6 +35,6 @@ npm start
 ```
 
 ## Screenshots
-![Home page](https://www.mediafire.com/file/em6jc90s6cuzhy6/image.png/file)
+![Home page](https://www.mediafire.com/convkey/dfcd/em6jc90s6cuzhy6zg.jpg)
 
-![Player page](https://www.mediafire.com/file/w7rly33uwyl2k0f/Screenshot+from+2021-04-18+02-29-10.png/file)
+![Player page](https://www.mediafire.com/convkey/0a8a/w7rly33uwyl2k0fzg.jpg)
